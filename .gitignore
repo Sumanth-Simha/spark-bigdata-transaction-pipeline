@@ -1,0 +1,55 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Virtual Environment
+
+venv/
+big/
+env/
+.venv/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Spark
+
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Output Files
+
+outputs/
+
+# Large Datasets
+
+creditcard.csv
+*.zip
+
+# Logs
+
+*.log
+
+# Temporary Files
+
+*.tmp
+
+
+skill.md
